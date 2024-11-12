@@ -16,7 +16,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6650)
++ [Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6650/6504)
 + [Supplementary material](supplementary.pdf)
 + [Code and data](https://github.com/FrancescoFabiano/EFP)
 
