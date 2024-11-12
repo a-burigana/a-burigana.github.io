@@ -86,14 +86,16 @@ params:
           url: location/
         # - name: Office Hours
         #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=FyTN_iEAAAAJ
         - name: ORCID
           url: https://orcid.org/my-orcid?orcid=0000-0002-9977-6735
-        - name: GitHub
-          url: https://github.com/a-burigana
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=FyTN_iEAAAAJ
         - name: dblp
           url: https://dblp.org/pid/266/4562.html
+        - name: GitHub
+          url: https://github.com/a-burigana
+        - name: LinkedIn
+          url: https://www.linkedin.com/feed/
 
     assets:
         disableScrollBarStyle: true
