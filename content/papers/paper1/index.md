@@ -14,6 +14,7 @@ summary: "This paper presents an updated formalization and implementation of a m
 ##### Download
 
 + [Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6650)
++ [Supplementary material](supplementary.pdf)
 + [Code and data](https://github.com/FrancescoFabiano/EFP)
 
 ---
@@ -54,4 +55,4 @@ Fabiano, F., Burigana, A., Dovier, A., and Pontelli, E. 2020. "EFP 2.0: A Multi-
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
++ [Slides](slides.pdf)
