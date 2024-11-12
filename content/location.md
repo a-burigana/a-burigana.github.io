@@ -17,11 +17,10 @@ Faculty of Engineering - Free University of Bolzano
 
 ---
 
-#### Office address
+#### Office
 
 Office B1.5.35  
-Faculty of Engineering  
-Free University of Bolzano
+Faculty of Engineering - Free University of Bolzano
 
 ---
 
