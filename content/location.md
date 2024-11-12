@@ -14,7 +14,7 @@ Alessandro Burigana
 Via Alessandro Volta, 25   
 Faculty of Engineering   
 Free University of Bolzano   
-Bolzano, Italy
+39100, Bolzano, Italy
 
 ---
 
