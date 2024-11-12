@@ -92,8 +92,8 @@ params:
           url: https://orcid.org/my-orcid?orcid=0000-0002-9977-6735
         - name: GitHub
           url: https://github.com/a-burigana
-        # - name: Twitter
-        #   url: https://twitter.com/McCallSmith
+        - name: dblp
+          url: https://dblp.org/pid/266/4562.html
 
     assets:
         disableScrollBarStyle: true
