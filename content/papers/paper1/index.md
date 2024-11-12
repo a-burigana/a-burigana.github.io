@@ -13,9 +13,8 @@ summary: "This paper presents an updated formalization and implementation of a m
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/6650)
++ [Code and data](https://github.com/FrancescoFabiano/EFP)
 
 ---
 
