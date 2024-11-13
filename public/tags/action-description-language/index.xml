@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Action Description Language on Alessandro Burigana</title>
-    <link>http://localhost:1313/tags/action-description-language/</link>
+    <link>https://a-burigana.github.io/tags/action-description-language/</link>
     <description>Recent content in Action Description Language on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/action-description-language/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a-burigana.github.io/tags/action-description-language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
-      <link>http://localhost:1313/papers/2022-11-29-ips/</link>
+      <link>https://a-burigana.github.io/papers/2022-11-29-ips/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
+      <guid>https://a-burigana.github.io/papers/2022-11-29-ips/</guid>
       <description>The paper introduces the EPDDL action description language for DEL-based epistemic planning. IPS 2022.</description>
     </item>
   </channel>

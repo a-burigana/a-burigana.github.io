@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Decidability on Alessandro Burigana</title>
-    <link>http://localhost:1313/tags/decidability/</link>
+    <link>https://a-burigana.github.io/tags/decidability/</link>
     <description>Recent content in Decidability on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/decidability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a-burigana.github.io/tags/decidability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Semantic Approach to Decidability in Epistemic Planning</title>
-      <link>http://localhost:1313/papers/2023-10-18-ecai/</link>
+      <link>https://a-burigana.github.io/papers/2023-10-18-ecai/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/2023-10-18-ecai/</guid>
+      <guid>https://a-burigana.github.io/papers/2023-10-18-ecai/</guid>
       <description>ECAI 2023.</description>
     </item>
   </channel>

@@ -2,132 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://a-burigana.github.io/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/location/</loc>
+    <loc>https://a-burigana.github.io/location/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
+    <loc>https://a-burigana.github.io/tags/collaborative-processes/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/conformance-checking/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/data-petri-nets/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/papers/2024-09-02-bpm/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/local-alignments/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/papers/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/papers/2024-08-01-aiml/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/bisimulation-contractions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/bounded-bisimulations/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/kripke-models/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/modal-logic/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2023-10-18-ecai/</loc>
+    <loc>https://a-burigana.github.io/papers/2023-10-18-ecai/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decidability/</loc>
+    <loc>https://a-burigana.github.io/tags/decidability/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamic-epistemic-logic/</loc>
+    <loc>https://a-burigana.github.io/tags/dynamic-epistemic-logic/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/epistemic-planning/</loc>
+    <loc>https://a-burigana.github.io/tags/epistemic-planning/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/2023-09-24-jelia/</loc>
+    <loc>https://a-burigana.github.io/papers/2023-09-24-jelia/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/possibilities/</loc>
+    <loc>https://a-burigana.github.io/tags/possibilities/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/action-description-language/</loc>
+    <loc>https://a-burigana.github.io/tags/action-description-language/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2022-11-29-ips/</loc>
+    <loc>https://a-burigana.github.io/papers/2022-11-29-ips/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2022-11-28-overlay/</loc>
+    <loc>https://a-burigana.github.io/papers/2022-11-28-overlay/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/deception/</loc>
+    <loc>https://a-burigana.github.io/tags/deception/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2021-10-25-pricai/</loc>
+    <loc>https://a-burigana.github.io/papers/2021-10-25-pricai/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/trust/</loc>
+    <loc>https://a-burigana.github.io/tags/trust/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/asp/</loc>
+    <loc>https://a-burigana.github.io/tags/asp/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2020-09-21-tplp/</loc>
+    <loc>https://a-burigana.github.io/papers/2020-09-21-tplp/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/2020-06-01-icaps/</loc>
+    <loc>https://a-burigana.github.io/papers/2020-06-01-icaps/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data/</loc>
+    <loc>https://a-burigana.github.io/data/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dataset/</loc>
+    <loc>https://a-burigana.github.io/tags/dataset/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/french/</loc>
+    <loc>https://a-burigana.github.io/tags/french/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
+    <loc>https://a-burigana.github.io/tags/irregular-verbs/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/italian/</loc>
+    <loc>https://a-burigana.github.io/tags/italian/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data/data1/</loc>
+    <loc>https://a-burigana.github.io/data/data1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philology/</loc>
+    <loc>https://a-burigana.github.io/tags/philology/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/portuguese/</loc>
+    <loc>https://a-burigana.github.io/tags/portuguese/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://a-burigana.github.io/tags/python/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/romance-languages/</loc>
+    <loc>https://a-burigana.github.io/tags/romance-languages/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/simulations/</loc>
+    <loc>https://a-burigana.github.io/tags/simulations/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spanish/</loc>
+    <loc>https://a-burigana.github.io/tags/spanish/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>https://a-burigana.github.io/courses/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
+    <loc>https://a-burigana.github.io/courses/course1/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://a-burigana.github.io/projects/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/portugese/</loc>
+    <loc>https://a-burigana.github.io/tags/portugese/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project1/</loc>
+    <loc>https://a-burigana.github.io/projects/project1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/celtic-languages/</loc>
+    <loc>https://a-burigana.github.io/tags/celtic-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irish/</loc>
+    <loc>https://a-burigana.github.io/tags/irish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/language-modernization/</loc>
+    <loc>https://a-burigana.github.io/tags/language-modernization/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/profanity/</loc>
+    <loc>https://a-burigana.github.io/tags/profanity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course2/</loc>
+    <loc>https://a-burigana.github.io/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://a-burigana.github.io/archive/</loc>
   </url>
 </urlset>
