@@ -7,7 +7,7 @@ author: ["Alessandro Burigana", "Francesco Fabiano", "Agostino Dovier", "Enrico 
 description: "This paper explores the performances of an ASP model for epistemic planning called PLATO. ICLP, TPLP 2020." 
 summary: "This paper explores the performances of an ASP model for epistemic planning called PLATO. The ASP paradigm provides a concise and elegant design of the planner, wrt. other imperative implementations, facilitating the development of formal verification of correctness. The paper shows that the planner has competitive performance results on benchmarks collected from the literature." 
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://doi.org/10.1017/S1471068420000289"
     Text: "Theory and Practice of Logic Programming"
 
 ---

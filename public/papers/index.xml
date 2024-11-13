@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
+      <link>http://localhost:1313/papers/2022-11-29-ips/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
+      <description>The paper introduces the EPDDL action description language for DEL-based epistemic planning. IPS 2022.</description>
+    </item>
+    <item>
       <title>DELPHIC: Towards an Efficient Possibility-based Epistemic Planning Framework</title>
       <link>http://localhost:1313/papers/2022-11-28-overlay/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>

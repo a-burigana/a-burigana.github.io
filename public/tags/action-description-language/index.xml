@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Action Description Language on Alessandro Burigana</title>
+    <link>http://localhost:1313/tags/action-description-language/</link>
+    <description>Recent content in Action Description Language on Alessandro Burigana</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/action-description-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
+      <link>http://localhost:1313/papers/2022-11-29-ips/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
+      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. IPS 2022.</description>
+    </item>
+  </channel>
+</rss>
