@@ -1,18 +1,14 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: false
+title: "Modelling Multi-Agent Epistemic Planning in ASP"
+date: 2020-09-21
+lastmod: 2024-11-13
+tags: ["Epistemic Planning","ASP","Possibilities",]
+author: ["Alessandro Burigana", "Francesco Fabiano", "Agostino Dovier", "Enrico Pontelli"]
+description: "This paper explores the performances of an ASP model for epistemic planning called PLATO. ICLP, TPLP 2020." 
+summary: "This paper explores the performances of an ASP model for epistemic planning called PLATO. The ASP paradigm provides a concise and elegant design of the planner, wrt. other imperative implementations, facilitating the development of formal verification of correctness. The paper shows that the planner has competitive performance results on benchmarks collected from the literature." 
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    Text: "Theory and Practice of Logic Programming"
 
 ---
 
@@ -20,43 +16,41 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
++ [Preprint](https://arxiv.org/abs/2008.03007)
++ [Supplementary material](supplementary.pdf)
++ [Code and data](https://github.com/a-burigana/PLATO)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
+Designing agents that reason and act upon the world has always been one of the main objectives of the Artificial Intelligence community. While for planning in "simple" domains the agents can solely rely on facts about the world, in several contexts, *e.g.*, economy, security, justice and politics, the mere knowledge of the world could be insufficient to reach a desired goal. In these scenarios, *epistemic reasoning*, *i.e.*, reasoning about agents' beliefs about themselves and about other agents' beliefs, is essential to design winning strategies. This paper addresses the problem of reasoning in multi-agent epistemic settings exploiting declarative programming techniques. In particular, the paper presents an actual implementation of a multi-shot *Answer Set Programming*-based planner that can reason in multi-agent epistemic settings, called PLATO (e**P**istemic mu**L**ti-agent **A**nswer se**T** programming s**O**lver). The ASP paradigm enables a concise and elegant design of the planner, w.r.t. other imperative implementations, facilitating the development of formal verification of correctness. The paper shows how the planner, exploiting an ad-hoc epistemic state representation and the efficiency of ASP solvers, has competitive performance results on benchmarks collected from the literature.
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Burigana, A., Fabiano, F., Dovier, A., and Pontelli, E. 2020. "Modelling Multi-Agent Epistemic Planning in ASP." *Theory and Practice of Logic Programming, 36th International Conference on Logic Programming Special Issue I*, 20(5):593-608
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{journals/tplp/BuriganaFDP2020,
+    author       = {Alessandro Burigana and
+                    Francesco Fabiano and
+                    Agostino Dovier and
+                    Enrico Pontelli},
+    title        = {Modelling Multi-Agent Epistemic Planning in {ASP}},
+    journal      = {Theory and Practice of Logic Programming},
+    volume       = {20},
+    number       = {5},
+    pages        = {593--608},
+    year         = {2020},
+    url          = {https://doi.org/10.1017/S1471068420000289},
+    doi          = {10.1017/S1471068420000289}
+}
 ```
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Slides](slides.pdf)
