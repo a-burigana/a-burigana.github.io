@@ -9,31 +9,31 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Action Description Language</title>
-      <link>http://localhost:1313/tags/action-description-language/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/action-description-language/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Dynamic Epistemic Logic</title>
       <link>http://localhost:1313/tags/dynamic-epistemic-logic/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dynamic-epistemic-logic/</guid>
       <description></description>
     </item>
     <item>
       <title>Epistemic Planning</title>
       <link>http://localhost:1313/tags/epistemic-planning/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/epistemic-planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Possibilities</title>
       <link>http://localhost:1313/tags/possibilities/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/possibilities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Action Description Language</title>
+      <link>http://localhost:1313/tags/action-description-language/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/action-description-language/</guid>
       <description></description>
     </item>
     <item>

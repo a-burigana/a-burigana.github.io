@@ -7,7 +7,7 @@ description: "The paper proposes a formulation of DEL-based epistemic planning b
 summary: "The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. We argue that the resulting framework, named DELPHIC, constitutes a valid alternative to the traditional Kripke semantics for DEL, since it provides a more compact representation of epistemic information and a lighter update mechanism."
 editPost:
     URL: "https://ceur-ws.org/Vol-3311/"
-    Text: "Short Paper Proceedings of the 4th Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis"
+    Text: "Short Paper Proceedings of the 4th Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis, OVERLAY 2022"
 
 ---
 

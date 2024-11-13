@@ -7,7 +7,7 @@ description: "The paper introduces the EPDDL action description language for DEL
 summary: "In this paper we propose a new action description language called EPDDL (Epistemic Planning Domain Definition Language), through which we can represent all kinds of DEL actions, thus allowing for a general and unified syntax for representing epistemic planning domains."
 editPost:
     URL: "https://ceur-ws.org/Vol-3345/"
-    Text: "Proceedings of the 10th Italian workshop on Planning and Scheduling"
+    Text: "Proceedings of the 10th Italian workshop on Planning and Scheduling, IPS 2022"
 
 ---
 
