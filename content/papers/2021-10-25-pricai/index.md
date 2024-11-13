@@ -4,8 +4,8 @@ date: 2021-10-25
 lastmod: 2024-11-13
 tags: ["Epistemic Planning","Possibilities","Trust","Deception"]
 author: ["Francesco Fabiano", "Alessandro Burigana", "Agostino Dovier", "Enrico Pontelli", "Tran Cao Son"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+description: "This paper provides an epistemic planning framework for reasoning about inconsistent beliefs of agents, trust relations and lies. PRICAI 2021." 
+summary: "This paper expands the $m\\mathcal{A}^\\rho$ epistemic planning framework in order to reasoning about inconsistent beliefs of agents, trust relations and lies. The paper provides both syntax and semantics of the generalized framework, together with an implementation in the Epistemic Forward Planner (EFP) solver." 
 editPost:
     URL: "https://doi.org/10.1007/978-3-030-89188-6_44"
     Text: "Proceedings of the 18th Pacific Rim International Conference on Artificial Intelligence, PRICAI 2021"
