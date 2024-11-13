@@ -52,9 +52,3 @@ Burigana, A., Gianola, A., Montali, M., and Winkler, S. 2024. "Glocal Conformanc
     doi       = {10.1007/978-3-031-70396-6\_5}
 }
 ```
-
----
-
-##### Related material
-
-+ [Slides]()
