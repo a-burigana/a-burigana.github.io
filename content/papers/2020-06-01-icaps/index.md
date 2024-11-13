@@ -8,7 +8,7 @@ description: "This paper presents EFP 2.0, a multi-agent epistemic planner based
 summary: "This paper presents an updated formalization and implementation of a multi-agent epistemic planner, called EFP. In particular, the paper explores the advantages of using alternative state representations that deviate from the commonly used Kripke structures. The paper explores such alternatives in the context of an action language for multi-agent epistemic planning."
 editPost:
     URL: "https://doi.org/10.1609/icaps.v30i1.6650"
-    Text: "Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling, ICAPS 2020"
+    Text: "Proceedings of the 30th International Conference on Automated Planning and Scheduling, ICAPS 2020"
 
 ---
 

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>A Semantic Approach to Decidability in Epistemic Planning | Alessandro Burigana</title>
+<meta name="keywords" content="Epistemic Planning, Dynamic Epistemic Logic, Decidability">
+<meta name="description" content="ECAI 2023.">
+<meta name="author" content="Alessandro Burigana,&thinsp;Paolo Felli,&thinsp;Marco Montali,&thinsp;Nicolas Troquard">
+<link rel="canonical" href="http://localhost:1313/papers/2023-10-18-ecai/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.e690afcd5c523330d5c8b4d746eb158361600a015e99518d4d246a6ccab0cc19.css" integrity="sha256-5pCvzVxSMzDVyLTXRusVg2FgCgFemVGNTSRqbMqwzBk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/papers/2023-10-18-ecai/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="A Semantic Approach to Decidability in Epistemic Planning" />
+<meta property="og:description" content="ECAI 2023." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/papers/2023-10-18-ecai/" /><meta property="article:section" content="papers" />
+<meta property="article:published_time" content="2023-10-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-11-12T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A Semantic Approach to Decidability in Epistemic Planning"/>
+<meta name="twitter:description" content="ECAI 2023."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Papers",
+      "item": "http://localhost:1313/papers/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "A Semantic Approach to Decidability in Epistemic Planning",
+      "item": "http://localhost:1313/papers/2023-10-18-ecai/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A Semantic Approach to Decidability in Epistemic Planning",
+  "name": "A Semantic Approach to Decidability in Epistemic Planning",
+  "description": "ECAI 2023.",
+  "keywords": [
+    "Epistemic Planning", "Dynamic Epistemic Logic", "Decidability"
+  ],
+  "articleBody": " Download Paper Supplementary material Abstract The use of Dynamic Epistemic Logic (DEL) in multi-agent planning has led to a widely adopted action formalism that can handle nondeterminism, partial observability and arbitrary knowledge nesting. As such expressive power comes at the cost of undecidability, several decidable fragments have been isolated, mainly based on syntactic restrictions of the action formalism. In this paper, we pursue a novel semantic approach to achieve decidability. Namely, rather than imposing syntactical constraints, the semantic approach focuses on the axioms of the logic for epistemic planning. Specifically, we augment the logic of knowledge S5$_n$ and with an interaction axiom called (knowledge) commutativity, which controls the ability of agents to unboundedly reason on the knowledge of other agents. We then provide a threefold contribution. First, we show that the resulting epistemic planning problem is decidable. In doing so, we prove that our framework admits a finitary non-fixpoint characterization of common knowledge, which is of independent interest. Second, we study different generalizations of the commutativity axiom, with the goal of obtaining decidability for more expressive fragments of DEL. Finally, we show that two well-known epistemic planning systems based on action templates, when interpreted under the setting of knowledge, conform to the commutativity axiom, hence proving their decidability.\nCitation Fabiano, F., Burigana, A., Dovier, A., and Pontelli, E. 2020. “EFP 2.0: A Multi-Agent Epistemic Solver with Multiple E-State Representations”, Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling, Nancy, France, October 26-30, 2020, Vol. 30: 101–109. https://ojs.aaai.org/index.php/ICAPS/article/view/6650 .\n@inproceedings{conf/ecai/BuriganaFMT2023, author = {Alessandro Burigana and Paolo Felli and Marco Montali and Nicolas Troquard}, editor = {Kobi Gal and Ann Now{\\'{e}} and Grzegorz J. Nalepa and Roy Fairstein and Roxana Radulescu}, title = {A Semantic Approach to Decidability in Epistemic Planning}, booktitle = {{ECAI} 2023 - 26th European Conference on Artificial Intelligence, September 30 - October 4, 2023, Krak{\\'{o}}w, Poland - Including 12th Conference on Prestigious Applications of Intelligent Systems ({PAIS} 2023)}, series = {Frontiers in Artificial Intelligence and Applications}, volume = {372}, pages = {319--326}, publisher = {{IOS} Press}, year = {2023}, url = {https://doi.org/10.3233/FAIA230286}, doi = {10.3233/FAIA230286} } Related material Slides ",
+  "wordCount" : "353",
+  "inLanguage": "en",
+  "datePublished": "2023-10-18T00:00:00Z",
+  "dateModified": "2024-11-12T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Alessandro Burigana"
+  }, {
+    "@type": "Person",
+    "name": "Paolo Felli"
+  }, {
+    "@type": "Person",
+    "name": "Marco Montali"
+  }, {
+    "@type": "Person",
+    "name": "Nicolas Troquard"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/papers/2023-10-18-ecai/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Alessandro Burigana",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Alessandro Burigana">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Alessandro Burigana</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/papers/" title="Papers">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      A Semantic Approach to Decidability in Epistemic Planning
+    </h1>
+    <div class="post-meta"><span title='2023-10-18 00:00:00 +0000 UTC'>October 2023</span>&nbsp;&middot;&nbsp;Alessandro Burigana,&thinsp;Paolo Felli,&thinsp;Marco Montali,&thinsp;Nicolas Troquard&nbsp;&middot;&nbsp;<a href="https://doi.org/10.3233/FAIA230286" rel="noopener noreferrer" target="_blank">Proceedings of the 26th European Conference on Artificial Intelligence, ECAI 2023</a>
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h5 id="download">Download</h5>
+<ul>
+<li><a href="https://doi.org/10.3233/FAIA230286" target="_blank">Paper</a>
+</li>
+<li><a href="supplementary.pdf">Supplementary material</a>
+</li>
+</ul>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<p>The use of Dynamic Epistemic Logic (DEL) in multi-agent planning has led to a widely adopted action formalism that can handle nondeterminism, partial observability and arbitrary knowledge nesting. As such expressive power comes at the cost of undecidability, several decidable fragments have been isolated, mainly based on syntactic restrictions of the action formalism. In this paper, we pursue a novel <em>semantic approach</em> to achieve decidability. Namely, rather than imposing syntactical constraints, the semantic approach focuses on the axioms of the logic for epistemic planning. Specifically, we augment the logic of knowledge S5$_n$ and with an interaction axiom called <em>(knowledge) commutativity</em>, which controls the ability of agents to unboundedly reason on the knowledge of other agents. We then provide a threefold contribution. First, we show that the resulting epistemic planning problem is decidable. In doing so, we prove that our framework admits a finitary non-fixpoint characterization of common knowledge, which is of independent interest. Second, we study different generalizations of the commutativity axiom, with the goal of obtaining decidability for more expressive fragments of DEL. Finally, we show that two well-known epistemic planning systems based on action templates, when interpreted under the setting of knowledge, conform to the commutativity axiom, hence proving their decidability.</p>
+<hr>
+<h5 id="citation">Citation</h5>
+<p>Fabiano, F., Burigana, A., Dovier, A., and Pontelli, E. 2020. &ldquo;EFP 2.0: A Multi-Agent Epistemic Solver with Multiple E-State Representations&rdquo;, <em>Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling, Nancy, France, October 26-30, 2020</em>, Vol. 30: 101&ndash;109. <a href="https://ojs.aaai.org/index.php/ICAPS/article/view/6650" target="_blank">https://ojs.aaai.org/index.php/ICAPS/article/view/6650</a>
+.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#0a0;text-decoration:underline">@inproceedings</span>{conf/ecai/BuriganaFMT2023,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">author</span>    = <span style="color:#a50">{Alessandro Burigana and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Paolo Felli and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Marco Montali and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Nicolas Troquard}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">editor</span>    = <span style="color:#a50">{Kobi Gal and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Ann Now{\&#39;{e}} and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Grzegorz J. Nalepa and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Roy Fairstein and
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                Roxana Radulescu}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">title</span>     = <span style="color:#a50">{A Semantic Approach to Decidability in Epistemic Planning}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">booktitle</span> = <span style="color:#a50">{{ECAI} 2023 - 26th European Conference on Artificial Intelligence,
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                September 30 - October 4, 2023, Krak{\&#39;{o}}w, Poland - Including
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                12th Conference on Prestigious Applications of Intelligent Systems
+</span></span></span><span style="display:flex;"><span><span style="color:#a50">                ({PAIS} 2023)}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">series</span>    = <span style="color:#a50">{Frontiers in Artificial Intelligence and Applications}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">volume</span>    = <span style="color:#a50">{372}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">pages</span>     = <span style="color:#a50">{319--326}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">publisher</span> = <span style="color:#a50">{{IOS} Press}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">year</span>      = <span style="color:#a50">{2023}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">url</span>       = <span style="color:#a50">{https://doi.org/10.3233/FAIA230286}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">doi</span>       = <span style="color:#a50">{10.3233/FAIA230286}</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h5 id="related-material">Related material</h5>
+<ul>
+<li><a href="slides.pdf">Slides</a>
+</li>
+</ul>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/epistemic-planning/">Epistemic Planning</a></li>
+      <li><a href="http://localhost:1313/tags/dynamic-epistemic-logic/">Dynamic Epistemic Logic</a></li>
+      <li><a href="http://localhost:1313/tags/decidability/">Decidability</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">Alessandro Burigana</a></span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
