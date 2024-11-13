@@ -23,6 +23,27 @@
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
+      <title>A Semantic Approach to Decidability in Epistemic Planning</title>
+      <link>http://localhost:1313/papers/2023-10-18-ecai/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2023-10-18-ecai/</guid>
+      <description>ECAI 2023.</description>
+    </item>
+    <item>
+      <title>DELPHIC: Practical DEL Planning via Possibilities</title>
+      <link>http://localhost:1313/papers/2023-09-24-jelia/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2023-09-24-jelia/</guid>
+      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. JELIA 2023.</description>
+    </item>
+    <item>
+      <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
+      <link>http://localhost:1313/papers/2022-11-29-ips/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
+      <description>The paper introduces the EPDDL action description language for DEL-based epistemic planning. IPS 2022.</description>
+    </item>
+    <item>
       <title>DELPHIC: Towards an Efficient Possibility-based Epistemic Planning Framework</title>
       <link>http://localhost:1313/papers/2022-11-28-overlay/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
@@ -30,7 +51,7 @@
       <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. OVERLAY 2022.</description>
     </item>
     <item>
-      <title>Multi-agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
+      <title>Multi-Agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
       <link>http://localhost:1313/papers/2021-10-25-pricai/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/2021-10-25-pricai/</guid>
@@ -66,9 +87,9 @@
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/projects/book1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/book1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>

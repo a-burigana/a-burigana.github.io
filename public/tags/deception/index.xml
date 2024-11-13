@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/deception/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Multi-agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
+      <title>Multi-Agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
       <link>http://localhost:1313/papers/2021-10-25-pricai/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/2021-10-25-pricai/</guid>
-      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+      <description>This paper provides an epistemic planning framework for reasoning about inconsistent beliefs of agents, trust relations and lies. PRICAI 2021.</description>
     </item>
   </channel>
 </rss>

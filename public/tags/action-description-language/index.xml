@@ -13,7 +13,7 @@
       <link>http://localhost:1313/papers/2022-11-29-ips/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
-      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. IPS 2022.</description>
+      <description>The paper introduces the EPDDL action description language for DEL-based epistemic planning. IPS 2022.</description>
     </item>
   </channel>
 </rss>

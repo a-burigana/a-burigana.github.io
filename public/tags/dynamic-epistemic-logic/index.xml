@@ -9,11 +9,25 @@
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/dynamic-epistemic-logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Semantic Approach to Decidability in Epistemic Planning</title>
+      <link>http://localhost:1313/papers/2023-10-18-ecai/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2023-10-18-ecai/</guid>
+      <description>ECAI 2023.</description>
+    </item>
+    <item>
+      <title>DELPHIC: Practical DEL Planning via Possibilities</title>
+      <link>http://localhost:1313/papers/2023-09-24-jelia/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2023-09-24-jelia/</guid>
+      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. JELIA 2023.</description>
+    </item>
+    <item>
       <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
       <link>http://localhost:1313/papers/2022-11-29-ips/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/2022-11-29-ips/</guid>
-      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. IPS 2022.</description>
+      <description>The paper introduces the EPDDL action description language for DEL-based epistemic planning. IPS 2022.</description>
     </item>
     <item>
       <title>DELPHIC: Towards an Efficient Possibility-based Epistemic Planning Framework</title>
