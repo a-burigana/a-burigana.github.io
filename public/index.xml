@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-burigana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
-      <link>https://a-burigana.github.io/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Alessandro Burigana&amp;#39;s mailing and office addresses at the Faculty of Engineering of the Free University of Bolzano.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://a-burigana.github.io/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
-      <title>Your Inner Hedgehog</title>
-      <link>https://a-burigana.github.io/papers/2021-10-25-pricai/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2021-10-25-pricai/</guid>
+      <title>Multi-agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
+      <link>http://localhost:1313/papers/2021-10-25-pricai/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2021-10-25-pricai/</guid>
       <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
       <title>Modelling Multi-Agent Epistemic Planning in ASP</title>
-      <link>https://a-burigana.github.io/papers/2020-09-21-tplp/</link>
+      <link>http://localhost:1313/papers/2020-09-21-tplp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2020-09-21-tplp/</guid>
+      <guid>http://localhost:1313/papers/2020-09-21-tplp/</guid>
       <description>This paper explores the performances of an ASP model for epistemic planning called PLATO. ICLP, TPLP 2020.</description>
     </item>
     <item>
       <title>EFP 2.0: A Multi-Agent Epistemic Solver with Multiple E-State Representations</title>
-      <link>https://a-burigana.github.io/papers/2020-06-01-icaps/</link>
+      <link>http://localhost:1313/papers/2020-06-01-icaps/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2020-06-01-icaps/</guid>
+      <guid>http://localhost:1313/papers/2020-06-01-icaps/</guid>
       <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://a-burigana.github.io/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://a-burigana.github.io/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://a-burigana.github.io/books/book1/</link>
+      <link>http://localhost:1313/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/books/book1/</guid>
+      <guid>http://localhost:1313/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>https://a-burigana.github.io/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>

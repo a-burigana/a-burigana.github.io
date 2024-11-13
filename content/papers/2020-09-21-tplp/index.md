@@ -30,22 +30,22 @@ Designing agents that reason and act upon the world has always been one of the m
 
 ##### Citation
 
-Burigana, A., Fabiano, F., Dovier, A., and Pontelli, E. 2020. "Modelling Multi-Agent Epistemic Planning in ASP." *Theory and Practice of Logic Programming, 36th International Conference on Logic Programming Special Issue I*, 20(5):593-608
+Burigana, A., Fabiano, F., Dovier, A., and Pontelli, E. 2020. "Modelling Multi-Agent Epistemic Planning in ASP", *Theory and Practice of Logic Programming, 36th International Conference on Logic Programming Special Issue I*, Vol. 20(5): 593--608
 
 ```BibTeX
 @article{journals/tplp/BuriganaFDP2020,
-    author       = {Alessandro Burigana and
-                    Francesco Fabiano and
-                    Agostino Dovier and
-                    Enrico Pontelli},
-    title        = {Modelling Multi-Agent Epistemic Planning in {ASP}},
-    journal      = {Theory and Practice of Logic Programming},
-    volume       = {20},
-    number       = {5},
-    pages        = {593--608},
-    year         = {2020},
-    url          = {https://doi.org/10.1017/S1471068420000289},
-    doi          = {10.1017/S1471068420000289}
+    author  = {Alessandro Burigana and
+               Francesco Fabiano and
+               Agostino Dovier and
+               Enrico Pontelli},
+    title   = {Modelling Multi-Agent Epistemic Planning in {ASP}},
+    journal = {Theory and Practice of Logic Programming},
+    volume  = {20},
+    number  = {5},
+    pages   = {593--608},
+    year    = {2020},
+    url     = {https://doi.org/10.1017/S1471068420000289},
+    doi     = {10.1017/S1471068420000289}
 }
 ```
 

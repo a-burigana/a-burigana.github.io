@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Epistemic Planning on Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/tags/epistemic-planning/</link>
+    <link>http://localhost:1313/tags/epistemic-planning/</link>
     <description>Recent content in Epistemic Planning on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-burigana.github.io/tags/epistemic-planning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/epistemic-planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modelling Multi-Agent Epistemic Planning in ASP</title>
-      <link>https://a-burigana.github.io/papers/2020-09-21-tplp/</link>
+      <link>http://localhost:1313/papers/2020-09-21-tplp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2020-09-21-tplp/</guid>
+      <guid>http://localhost:1313/papers/2020-09-21-tplp/</guid>
       <description>This paper explores the performances of an ASP model for epistemic planning called PLATO. ICLP, TPLP 2020.</description>
     </item>
     <item>
       <title>EFP 2.0: A Multi-Agent Epistemic Solver with Multiple E-State Representations</title>
-      <link>https://a-burigana.github.io/papers/2020-06-01-icaps/</link>
+      <link>http://localhost:1313/papers/2020-06-01-icaps/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2020-06-01-icaps/</guid>
+      <guid>http://localhost:1313/papers/2020-06-01-icaps/</guid>
       <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
     </item>
   </channel>
