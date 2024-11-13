@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Better Bounded Bisimulation Contractions</title>
+      <link>http://localhost:1313/papers/2024-08-01-aiml/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2024-08-01-aiml/</guid>
+      <description>This paper introduces a novel kind of bounded bisimulation contractions called rooted k-contractions, which are shown to be minimal. AiML 2024.</description>
+    </item>
+    <item>
       <title>A Semantic Approach to Decidability in Epistemic Planning</title>
       <link>http://localhost:1313/papers/2023-10-18-ecai/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -55,6 +62,13 @@
       <link>http://localhost:1313/papers/2020-06-01-icaps/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/2020-06-01-icaps/</guid>
+      <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
+    </item>
+    <item>
+      <title>EFP 2.0: A Multi-Agent Epistemic Solver with Multiple E-State Representations</title>
+      <link>http://localhost:1313/papers/2024-09-02-bpm/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2024-09-02-bpm/</guid>
       <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bisimulation Contractions on Alessandro Burigana</title>
+    <link>http://localhost:1313/tags/bisimulation-contractions/</link>
+    <description>Recent content in Bisimulation Contractions on Alessandro Burigana</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bisimulation-contractions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Bounded Bisimulation Contractions</title>
+      <link>http://localhost:1313/papers/2024-08-01-aiml/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2024-08-01-aiml/</guid>
+      <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
+    </item>
+  </channel>
+</rss>
