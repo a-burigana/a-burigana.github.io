@@ -1,5 +1,5 @@
 ---
-title: "Multi-agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies"
+title: "Multi-Agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies"
 date: 2021-10-25
 lastmod: 2024-11-13
 tags: ["Epistemic Planning","Possibilities","Trust","Deception"]

@@ -9,38 +9,38 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Academia</title>
-      <link>http://localhost:1313/tags/academia/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/academia/</guid>
+      <title>Dynamic Epistemic Logic</title>
+      <link>http://localhost:1313/tags/dynamic-epistemic-logic/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dynamic-epistemic-logic/</guid>
       <description></description>
     </item>
     <item>
-      <title>Experimental Psychology</title>
-      <link>http://localhost:1313/tags/experimental-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/experimental-psychology/</guid>
+      <title>Epistemic Planning</title>
+      <link>http://localhost:1313/tags/epistemic-planning/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/epistemic-planning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Inner Hedgehog</title>
-      <link>http://localhost:1313/tags/inner-hedgehog/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/inner-hedgehog/</guid>
+      <title>Possibilities</title>
+      <link>http://localhost:1313/tags/possibilities/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/possibilities/</guid>
       <description></description>
     </item>
     <item>
-      <title>Invasive Thoughts</title>
-      <link>http://localhost:1313/tags/invasive-thoughts/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/invasive-thoughts/</guid>
+      <title>Deception</title>
+      <link>http://localhost:1313/tags/deception/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deception/</guid>
       <description></description>
     </item>
     <item>
-      <title>Social Psychology</title>
-      <link>http://localhost:1313/tags/social-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-psychology/</guid>
+      <title>Trust</title>
+      <link>http://localhost:1313/tags/trust/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trust/</guid>
       <description></description>
     </item>
     <item>
@@ -48,27 +48,6 @@
       <link>http://localhost:1313/tags/asp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/asp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Epistemic Planning</title>
-      <link>http://localhost:1313/tags/epistemic-planning/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/epistemic-planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Possibilities</title>
-      <link>http://localhost:1313/tags/possibilities/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/possibilities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dynamic Epistemic Logic</title>
-      <link>http://localhost:1313/tags/dynamic-epistemic-logic/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dynamic-epistemic-logic/</guid>
       <description></description>
     </item>
     <item>
@@ -174,6 +153,97 @@
       <link>http://localhost:1313/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/profanity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:1313/tags/academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/academia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experimental Psychology</title>
+      <link>http://localhost:1313/tags/experimental-psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/experimental-psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inner Hedgehog</title>
+      <link>http://localhost:1313/tags/inner-hedgehog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inner-hedgehog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Invasive Thoughts</title>
+      <link>http://localhost:1313/tags/invasive-thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/invasive-thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 1</title>
+      <link>http://localhost:1313/tags/keyword-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 2</title>
+      <link>http://localhost:1313/tags/keyword-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 3</title>
+      <link>http://localhost:1313/tags/keyword-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 4</title>
+      <link>http://localhost:1313/tags/keyword-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 5</title>
+      <link>http://localhost:1313/tags/keyword-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 6</title>
+      <link>http://localhost:1313/tags/keyword-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 7</title>
+      <link>http://localhost:1313/tags/keyword-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyword 8</title>
+      <link>http://localhost:1313/tags/keyword-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keyword-8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Psychology</title>
+      <link>http://localhost:1313/tags/social-psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/social-psychology/</guid>
       <description></description>
     </item>
   </channel>
