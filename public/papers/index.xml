@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DELPHIC: Towards an Efficient Possibility-based Epistemic Planning Framework</title>
+      <link>http://localhost:1313/papers/2022-11-28-overlay/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2022-11-28-overlay/</guid>
+      <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. OVERLAY 2022.</description>
+    </item>
+    <item>
       <title>Multi-agent Epistemic Planning with Inconsistent Beliefs, Trust and Lies</title>
       <link>http://localhost:1313/papers/2021-10-25-pricai/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
