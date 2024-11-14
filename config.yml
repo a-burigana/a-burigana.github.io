@@ -90,7 +90,7 @@ params:
         # - name: Office Hours
         #   url: officehours/
         - name: ORCID
-          url: https://orcid.org/my-orcid?orcid=0000-0002-9977-6735
+          url: https://orcid.org/0000-0002-9977-6735
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=FyTN_iEAAAAJ
         - name: dblp
