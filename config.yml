@@ -15,13 +15,16 @@ menu:
         #   weight: 5 
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 1
         - name: Projects
           url: projects/
-          weight: 3
+          weight: 2
         - name: Archive
           url: archive/
-          weight: 4 
+          weight: 3 
+        - name: Tags
+          url: tags/
+          weight: 4
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
@@ -68,8 +71,8 @@ params:
             #   url: data/
             # - name: Books
             #   url: books/
-            # - name: Tags
-            #   url: tags/
+            - name: Tags
+              url: tags/
             - name: Archive
               url: archive/
             # - name: Blog
