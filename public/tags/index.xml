@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a-burigana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collaborative Processes</title>
@@ -93,6 +93,13 @@
       <description></description>
     </item>
     <item>
+      <title>Epistemic Planner</title>
+      <link>https://a-burigana.github.io/tags/epistemic-planner/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/tags/epistemic-planner/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Action Description Language</title>
       <link>https://a-burigana.github.io/tags/action-description-language/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
@@ -111,6 +118,13 @@
       <link>https://a-burigana.github.io/tags/trust/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://a-burigana.github.io/tags/trust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Answer Set Programming</title>
+      <link>https://a-burigana.github.io/tags/answer-set-programming/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/tags/answer-set-programming/</guid>
       <description></description>
     </item>
     <item>

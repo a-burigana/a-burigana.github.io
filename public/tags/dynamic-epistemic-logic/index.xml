@@ -6,7 +6,7 @@
     <description>Recent content in Dynamic Epistemic Logic on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a-burigana.github.io/tags/dynamic-epistemic-logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Semantic Approach to Decidability in Epistemic Planning</title>
@@ -21,6 +21,13 @@
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://a-burigana.github.io/papers/2023-09-24-jelia/</guid>
       <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. JELIA 2023.</description>
+    </item>
+    <item>
+      <title>DAEDALUS - DynAmic Epistemic and DoxAstic Logic Universal Solver</title>
+      <link>https://a-burigana.github.io/projects/daedalus/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/projects/daedalus/</guid>
+      <description>DynAmic Epistemic and DoxAstic Logic Universal Solver. Solver for DEL-based epistemic planning problems.</description>
     </item>
     <item>
       <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>

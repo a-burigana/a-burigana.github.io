@@ -6,7 +6,7 @@
     <description>Recent content on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://a-burigana.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
@@ -51,6 +51,13 @@
       <description>The paper proposes a formulation of DEL-based epistemic planning based on a different kind of object, called possibility. JELIA 2023.</description>
     </item>
     <item>
+      <title>DAEDALUS - DynAmic Epistemic and DoxAstic Logic Universal Solver</title>
+      <link>https://a-burigana.github.io/projects/daedalus/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/projects/daedalus/</guid>
+      <description>DynAmic Epistemic and DoxAstic Logic Universal Solver. Solver for DEL-based epistemic planning problems.</description>
+    </item>
+    <item>
       <title>The Epistemic Planning Domain Definition Language (Short Paper)</title>
       <link>https://a-burigana.github.io/papers/2022-11-29-ips/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
@@ -72,6 +79,13 @@
       <description>This paper provides an epistemic planning framework for reasoning about inconsistent beliefs of agents, trust relations and lies. PRICAI 2021.</description>
     </item>
     <item>
+      <title>DELPHIC ASP - An Answer Set Programming model of the DELPHIC semantics</title>
+      <link>https://a-burigana.github.io/projects/delphic/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/projects/delphic/</guid>
+      <description>An Answer Set Programming model of the DELPHIC semantics for DEL-based epistemic planning problems.</description>
+    </item>
+    <item>
       <title>Modelling Multi-Agent Epistemic Planning in ASP</title>
       <link>https://a-burigana.github.io/papers/2020-09-21-tplp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
@@ -86,11 +100,18 @@
       <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
     </item>
     <item>
-      <title>To do</title>
-      <link>https://a-burigana.github.io/projects/project1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/projects/project1/</guid>
-      <description>To do.</description>
+      <title>PLATO - ePistemic muLti-agent Answer seT programming sOlver</title>
+      <link>https://a-burigana.github.io/projects/plato/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/projects/plato/</guid>
+      <description>ePistemic muLti-agent Answer seT programming sOlver. Solver for epistemic planning problems based on the mA* language.</description>
+    </item>
+    <item>
+      <title>EFP 2.0 - Epistemic Forward Planner</title>
+      <link>https://a-burigana.github.io/projects/efp/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/projects/efp/</guid>
+      <description>Epistemic Forward Planner. Solver for epistemic planning problems based on the mA* language.</description>
     </item>
   </channel>
 </rss>

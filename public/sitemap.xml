@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://a-burigana.github.io/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/location/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
@@ -27,7 +27,7 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/tags/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/papers/2024-08-01-aiml/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
@@ -54,7 +54,7 @@
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/tags/dynamic-epistemic-logic/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/tags/epistemic-planning/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
@@ -63,7 +63,16 @@
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/tags/possibilities/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/projects/daedalus/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/tags/epistemic-planner/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/projects/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/tags/action-description-language/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
@@ -83,6 +92,12 @@
     <loc>https://a-burigana.github.io/tags/trust/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://a-burigana.github.io/tags/answer-set-programming/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://a-burigana.github.io/projects/delphic/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://a-burigana.github.io/tags/asp/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -92,11 +107,11 @@
     <loc>https://a-burigana.github.io/papers/2020-06-01-icaps/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a-burigana.github.io/projects/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>https://a-burigana.github.io/projects/plato/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://a-burigana.github.io/projects/project1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>https://a-burigana.github.io/projects/efp/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://a-burigana.github.io/archive/</loc>
   </url>
