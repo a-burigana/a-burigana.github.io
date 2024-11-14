@@ -71,10 +71,10 @@ params:
             #   url: data/
             # - name: Books
             #   url: books/
-            - name: Tags
-              url: tags/
             - name: Archive
               url: archive/
+            - name: Tags
+              url: tags/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
