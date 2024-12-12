@@ -30,7 +30,7 @@ menu:
         #   weight: 6
 
 params:
-    description: "I am an Research Assistant in Computer Science at the Free University of Bolzano, Italy. My research focuses mostly on Epistemic Planning, Knowledge Representation and Reasoning and Multi-Agent Systems."
+    description: "I am a Research Assistant in Computer Science at the Free University of Bolzano, Italy. My research focuses mostly on Epistemic Planning, Knowledge Representation and Reasoning and Multi-Agent Systems."
     author: Alessandro Burigana
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Alessandro Burigana
-          subtitle: "I am an Research Assistant in Computer Science at the Free University of Bolzano, Italy. My research focuses mostly on Epistemic Planning, Knowledge Representation and Reasoning and Multi-Agent Systems."
+          subtitle: "I am a Research Assistant in Computer Science at the Free University of Bolzano, Italy. My research focuses mostly on Epistemic Planning, Knowledge Representation and Reasoning and Multi-Agent Systems."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
