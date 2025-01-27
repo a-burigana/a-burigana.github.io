@@ -107,7 +107,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Alessandro Burigana"
-      icon: me-icon.png
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
