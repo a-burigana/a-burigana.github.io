@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Alessandro Burigana
           subtitle: "I am an Assistant Researcher in Computer Science at the Free University of Bolzano, Italy. My research focuses mostly on Epistemic Planning, Knowledge Representation and Reasoning and Multi-Agent Systems."
-          imageUrl: "picture.jpeg"
+          imageUrl: "me.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
