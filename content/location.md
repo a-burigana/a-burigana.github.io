@@ -11,7 +11,7 @@ description: "Alessandro Burigana's mailing and office addresses at the Faculty 
 #### Mailing address
 
 Alessandro Burigana  
-Via Alessandro Volta, 25  
+Via Bruno Buozzi, 1  
 Faculty of Engineering - Free University of Bolzano  
 39100, Bolzano, Italy
 
