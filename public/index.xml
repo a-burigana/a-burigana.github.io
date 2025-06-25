@@ -113,5 +113,12 @@
       <guid>https://a-burigana.github.io/projects/efp/</guid>
       <description>Epistemic Forward Planner. Solver for epistemic planning problems based on the mA* language.</description>
     </item>
+    <item>
+      <title>Epistemic Planning: Recent Advancements and Future Directions (Tutorial, ICAPS 2025)</title>
+      <link>https://a-burigana.github.io/dissemination/2025-11-11-icaps-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://a-burigana.github.io/dissemination/2025-11-11-icaps-tutorial/</guid>
+      <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
+    </item>
   </channel>
 </rss>

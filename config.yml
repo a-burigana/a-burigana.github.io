@@ -19,12 +19,15 @@ menu:
         - name: Projects
           url: projects/
           weight: 2
+        - name: Dissemination
+          url: dissemination/
+          weight: 3
         - name: Archive
           url: archive/
-          weight: 3 
+          weight: 4 
         - name: Tags
           url: tags/
-          weight: 4
+          weight: 5
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
@@ -45,9 +48,9 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","projects","archive"]
+    MainSections: ["papers","projects","dissemination","archive"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -65,6 +68,8 @@ params:
               url: papers/
             - name: Projects
               url: projects/
+            - name: Dissemination
+              url: dissemination/
             # - name: Courses
             #   url: courses/
             # - name: Data
