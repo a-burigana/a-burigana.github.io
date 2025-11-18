@@ -28,7 +28,7 @@ Bisimulations are standard in modal logic and, more generally, in the theory of 
 
 ##### Citation
 
-Bolander, T., and Burigana. 2024. "Better Bounded Bisimulation Contractions", *Advances in Modal Logic, AiML 2024, Prague, Czech Republic, August 19-23, 2024*, 249--268. https://www.collegepublications.co.uk/aiml/?00012.
+Bolander, T., and Burigana, A.. 2024. "Better Bounded Bisimulation Contractions", *Advances in Modal Logic, AiML 2024, Prague, Czech Republic, August 19-23, 2024*, 249--268. https://www.collegepublications.co.uk/aiml/?00012.
 
 ```BibTeX
 @inproceedings{conf/aiml/BolanderB2024,
