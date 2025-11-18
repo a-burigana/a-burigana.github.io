@@ -6,14 +6,14 @@
     <description>Recent content in DAEDALUS on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/daedalus/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Better Bounded Bisimulation Contractions</title>
-      <link>http://localhost:1313/papers/2024-08-01-aiml/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/2024-08-01-aiml/</guid>
-      <description>This paper introduces a novel kind of bounded bisimulation contractions called rooted k-contractions, which are shown to be minimal. AiML 2024.</description>
+      <title>Depth-Bounded Epistemic Planning</title>
+      <link>http://localhost:1313/papers/2025-11-14-kr/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/2025-11-14-kr/</guid>
+      <description>This paper introduces the Iterative Bound-Deepening Search (IBDS) algorithm for epistemic planning, showing theoretical results and effective empirical performances. KR 2025.</description>
     </item>
   </channel>
 </rss>
