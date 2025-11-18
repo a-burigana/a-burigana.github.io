@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Disseminations on Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/dissemination/</link>
+    <link>http://localhost:1313/dissemination/</link>
     <description>Recent content in Disseminations on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <atom:link href="https://a-burigana.github.io/dissemination/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dissemination/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Epistemic Planning: Recent Advancements and Future Directions (Tutorial, ICAPS 2025)</title>
-      <link>https://a-burigana.github.io/dissemination/2025-11-11-icaps-tutorial/</link>
+      <link>http://localhost:1313/dissemination/2025-11-11-icaps-tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/dissemination/2025-11-11-icaps-tutorial/</guid>
+      <guid>http://localhost:1313/dissemination/2025-11-11-icaps-tutorial/</guid>
       <description>This paper presents EFP 2.0, a multi-agent epistemic planner based on an alternative state representations called possibilities. ICAPS 2020.</description>
     </item>
   </channel>

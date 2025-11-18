@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Answer Set Programming on Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/tags/answer-set-programming/</link>
+    <link>http://localhost:1313/tags/answer-set-programming/</link>
     <description>Recent content in Answer Set Programming on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-burigana.github.io/tags/answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DELPHIC ASP - An Answer Set Programming model of the DELPHIC semantics</title>
-      <link>https://a-burigana.github.io/projects/delphic/</link>
+      <link>http://localhost:1313/projects/delphic/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/projects/delphic/</guid>
+      <guid>http://localhost:1313/projects/delphic/</guid>
       <description>An Answer Set Programming model of the DELPHIC semantics for DEL-based epistemic planning problems.</description>
     </item>
     <item>
       <title>Modelling Multi-Agent Epistemic Planning in ASP</title>
-      <link>https://a-burigana.github.io/papers/2020-09-21-tplp/</link>
+      <link>http://localhost:1313/papers/2020-09-21-tplp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2020-09-21-tplp/</guid>
+      <guid>http://localhost:1313/papers/2020-09-21-tplp/</guid>
       <description>This paper explores the performances of an ASP model for epistemic planning called PLATO. ICLP, TPLP 2020.</description>
     </item>
     <item>
       <title>PLATO - ePistemic muLti-agent Answer seT programming sOlver</title>
-      <link>https://a-burigana.github.io/projects/plato/</link>
+      <link>http://localhost:1313/projects/plato/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/projects/plato/</guid>
+      <guid>http://localhost:1313/projects/plato/</guid>
       <description>ePistemic muLti-agent Answer seT programming sOlver. Solver for epistemic planning problems based on the mA* language.</description>
     </item>
   </channel>

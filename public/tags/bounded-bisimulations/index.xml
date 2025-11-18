@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bounded Bisimulations on Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/tags/bounded-bisimulations/</link>
+    <link>http://localhost:1313/tags/bounded-bisimulations/</link>
     <description>Recent content in Bounded Bisimulations on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-burigana.github.io/tags/bounded-bisimulations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bounded-bisimulations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Better Bounded Bisimulation Contractions</title>
-      <link>https://a-burigana.github.io/papers/2024-08-01-aiml/</link>
+      <link>http://localhost:1313/papers/2024-08-01-aiml/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/papers/2024-08-01-aiml/</guid>
+      <guid>http://localhost:1313/papers/2024-08-01-aiml/</guid>
       <description>This paper introduces a novel kind of bounded bisimulation contractions called rooted k-contractions, which are shown to be minimal. AiML 2024.</description>
     </item>
   </channel>

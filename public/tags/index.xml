@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Alessandro Burigana</title>
-    <link>https://a-burigana.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Alessandro Burigana</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://a-burigana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collaborative Processes</title>
-      <link>https://a-burigana.github.io/tags/collaborative-processes/</link>
+      <link>http://localhost:1313/tags/collaborative-processes/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/collaborative-processes/</guid>
+      <guid>http://localhost:1313/tags/collaborative-processes/</guid>
       <description></description>
     </item>
     <item>
       <title>Conformance Checking</title>
-      <link>https://a-burigana.github.io/tags/conformance-checking/</link>
+      <link>http://localhost:1313/tags/conformance-checking/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/conformance-checking/</guid>
+      <guid>http://localhost:1313/tags/conformance-checking/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Petri Nets</title>
-      <link>https://a-burigana.github.io/tags/data-petri-nets/</link>
+      <link>http://localhost:1313/tags/data-petri-nets/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/data-petri-nets/</guid>
+      <guid>http://localhost:1313/tags/data-petri-nets/</guid>
       <description></description>
     </item>
     <item>
       <title>Local Alignments</title>
-      <link>https://a-burigana.github.io/tags/local-alignments/</link>
+      <link>http://localhost:1313/tags/local-alignments/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/local-alignments/</guid>
+      <guid>http://localhost:1313/tags/local-alignments/</guid>
       <description></description>
     </item>
     <item>
       <title>Bisimulation Contractions</title>
-      <link>https://a-burigana.github.io/tags/bisimulation-contractions/</link>
+      <link>http://localhost:1313/tags/bisimulation-contractions/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/bisimulation-contractions/</guid>
+      <guid>http://localhost:1313/tags/bisimulation-contractions/</guid>
       <description></description>
     </item>
     <item>
       <title>Bounded Bisimulations</title>
-      <link>https://a-burigana.github.io/tags/bounded-bisimulations/</link>
+      <link>http://localhost:1313/tags/bounded-bisimulations/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/bounded-bisimulations/</guid>
+      <guid>http://localhost:1313/tags/bounded-bisimulations/</guid>
       <description></description>
     </item>
     <item>
       <title>Kripke Models</title>
-      <link>https://a-burigana.github.io/tags/kripke-models/</link>
+      <link>http://localhost:1313/tags/kripke-models/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/kripke-models/</guid>
+      <guid>http://localhost:1313/tags/kripke-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Modal Logic</title>
-      <link>https://a-burigana.github.io/tags/modal-logic/</link>
+      <link>http://localhost:1313/tags/modal-logic/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/modal-logic/</guid>
+      <guid>http://localhost:1313/tags/modal-logic/</guid>
       <description></description>
     </item>
     <item>
       <title>Decidability</title>
-      <link>https://a-burigana.github.io/tags/decidability/</link>
+      <link>http://localhost:1313/tags/decidability/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/decidability/</guid>
+      <guid>http://localhost:1313/tags/decidability/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic Epistemic Logic</title>
-      <link>https://a-burigana.github.io/tags/dynamic-epistemic-logic/</link>
+      <link>http://localhost:1313/tags/dynamic-epistemic-logic/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/dynamic-epistemic-logic/</guid>
+      <guid>http://localhost:1313/tags/dynamic-epistemic-logic/</guid>
       <description></description>
     </item>
     <item>
       <title>Epistemic Planning</title>
-      <link>https://a-burigana.github.io/tags/epistemic-planning/</link>
+      <link>http://localhost:1313/tags/epistemic-planning/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/epistemic-planning/</guid>
+      <guid>http://localhost:1313/tags/epistemic-planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Possibilities</title>
-      <link>https://a-burigana.github.io/tags/possibilities/</link>
+      <link>http://localhost:1313/tags/possibilities/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/possibilities/</guid>
+      <guid>http://localhost:1313/tags/possibilities/</guid>
       <description></description>
     </item>
     <item>
       <title>Epistemic Planner</title>
-      <link>https://a-burigana.github.io/tags/epistemic-planner/</link>
+      <link>http://localhost:1313/tags/epistemic-planner/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/epistemic-planner/</guid>
+      <guid>http://localhost:1313/tags/epistemic-planner/</guid>
       <description></description>
     </item>
     <item>
       <title>Action Description Language</title>
-      <link>https://a-burigana.github.io/tags/action-description-language/</link>
+      <link>http://localhost:1313/tags/action-description-language/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/action-description-language/</guid>
+      <guid>http://localhost:1313/tags/action-description-language/</guid>
       <description></description>
     </item>
     <item>
       <title>Deception</title>
-      <link>https://a-burigana.github.io/tags/deception/</link>
+      <link>http://localhost:1313/tags/deception/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/deception/</guid>
+      <guid>http://localhost:1313/tags/deception/</guid>
       <description></description>
     </item>
     <item>
       <title>Trust</title>
-      <link>https://a-burigana.github.io/tags/trust/</link>
+      <link>http://localhost:1313/tags/trust/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/trust/</guid>
+      <guid>http://localhost:1313/tags/trust/</guid>
       <description></description>
     </item>
     <item>
       <title>Answer Set Programming</title>
-      <link>https://a-burigana.github.io/tags/answer-set-programming/</link>
+      <link>http://localhost:1313/tags/answer-set-programming/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/answer-set-programming/</guid>
+      <guid>http://localhost:1313/tags/answer-set-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://a-burigana.github.io/tags/tutorial/</link>
+      <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://a-burigana.github.io/tags/tutorial/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>
